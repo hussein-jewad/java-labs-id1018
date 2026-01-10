@@ -27,19 +27,21 @@ The labs focus on Java programming, problem-solving, and working with arrays, se
 Each lab is in its own folder:
 
 java-labs-id1018/
-│── LabA1_Temperatures/
-  │ ├── Temperatures1.java  
-  │ ├── Temperatures2.java
-  │ └── TemperaturesData.txt
-│── LabA2_Synonyms/
-  │ ├── SynonymHandler.java
-  │ ├── SynonymUser.java
-  │ └── SynonymData1.txt
-│── LabA3_NumberSequences/
-  │ ├── ArrayNumberSequence.java
-  │ ├── LinkedNumberSequence.java
-  │ └── NumberSequenceTest.java
-
+```plaintext
+java-labs-id1018/
+├── LabA1_Temperatures/
+│   ├── Temperatures1.java
+│   ├── Temperatures2.java
+│   └── TemperaturesData.txt
+├── LabA2_Synonyms/
+│   ├── SynonymHandler.java
+│   ├── SynonymUser.java
+│   └── SynonymData1.txt
+└── LabA3_NumberSequences/
+    ├── ArrayNumberSequence.java
+    ├── LinkedNumberSequence.java
+    └── NumberSequenceTest.java
+```
 ---
 
 ## How to Run
