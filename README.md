@@ -34,12 +34,13 @@ java-labs-id1018/
 │   ├── Temperatures2.java
 │   └── TemperaturesData.txt
 ├── LabA2_Synonyms/
+│   ├── SynonymData1.txt
 │   ├── SynonymHandler.java
-│   ├── SynonymUser.java
-│   └── SynonymData1.txt
+│   └── SynonymUser.java
 └── LabA3_NumberSequences/
     ├── ArrayNumberSequence.java
     ├── LinkedNumberSequence.java
+    ├── NumberSequence.java
     └── NumberSequenceTest.java
 ```
 ---
